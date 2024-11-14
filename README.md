@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhdanrgya&label=Profile%20views&color=0e75b6&style=flat" alt="akhdanrgya" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://anargya.vercel.app/](https://anargya.vercel.app/)
+- 👨‍💻 All of my projects are available here...
 
-- 💬 Ask me about **react and python**
+- 💬 Ask me about **React and Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
