@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anargya</h1>
-<h3 align="center">A passionate fullstack developer on Indonesia</h3>
+<h1>Hi 👋, I'm Anargya</h1>
+<h3>A passionate fullstack developer on Indonesia</h3>
 
 # 💫 About Me:
 🔭 I’m founder of Gokiltech<br>👨‍💻 All of my projects are available here https://gokiltech.com<br>🌱 I’m currently learning AI and Machine Learning<br>💬 Ask me about React and Python<br>
